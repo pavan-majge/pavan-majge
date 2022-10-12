@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning computer  science engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at gmail- pavan.majge@gmail.com
+- 📫 You can reach me at gmail- pavan.majge@gmail.com
 
 <!---
 pavan-majge/pavan-majge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
